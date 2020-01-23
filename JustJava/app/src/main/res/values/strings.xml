@@ -1,0 +1,18 @@
+<resources
+    xmlns:xliff = "urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">quantity</string>
+    <string name="order">order</string>
+    <string name="toppings">toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order_summary_name">Name: <xliff:g id = "name" example = "Ahmed">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add whipped cream? <xliff:g id = "addWhippedCream" example = "true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Add chocolate? <xliff:g id = "addChocolate" example = "true">%b</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id = "quantity" example = "3">%d</xliff:g></string>
+    <string name="order_summary_price">Price: <xliff:g id = "price" example = "$15">%s</xliff:g></string>
+    <string name="order_summary_email_subject">Just Java order for: <xliff:g id = "name" example = "Ahmed">%s</xliff:g></string>
+    <string name="thank_you">Thank you!</string>
+    <string name="name">Name</string>
+    <string name="initial_quantity_value">1</string>
+</resources>
